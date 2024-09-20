@@ -1,2 +1,1 @@
-this is day1 practice
-Updated content for day1 practice
+today i update in practice.txt
